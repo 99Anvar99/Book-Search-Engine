@@ -12,9 +12,6 @@ const PORT = process.env.PORT || 3001;
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  persistedQueries: {
-    cache: 'bounded', // Use a bounded cache for performance
-  },
   context: authMiddleware,
 });
 
