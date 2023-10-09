@@ -31,7 +31,6 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -41,23 +40,23 @@ A MERN Book Search Engine is a web application utilizing the MERN stack, compris
 
 ## Built With
 
-Express
-Node.js
-MongoDB
-Mongoose
-GraphQL
-Apollo Client
-React
-React-bootstrap
-Bootstrap
-HTML
-CSS
-JSX / JavaScript
-Json web token
-Jwt-decode
-Bcrypt
-Faker
-localStorage
+Express,
+ Node.js,
+ MongoDB,
+ Mongoose,
+ GraphQL,
+ Apollo Client,
+ React,
+ React-bootstrap,
+ Bootstrap,
+ HTML,
+ CSS,
+ JSX / JavaScript,
+ Json web token,
+ Jwt-decode,
+ Bcrypt,
+ Faker,
+ localStorage
 
 ## Getting Started
 
